@@ -1,0 +1,19 @@
+{
+    "workspace.library": [
+        "/Users/liangsiyuan/.config/nvim",
+        "/Users/liangsiyuan/.local/share/nvim/site",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/LuaSnip",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/monokai.nvim",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/Users/liangsiyuan/Library/nvim-macos/share/nvim/runtime",
+        "/Users/liangsiyuan/Library/nvim-macos/lib/nvim",
+        "/Users/liangsiyuan/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after",
+        "${3rd}/luassert/library",
+        "${3rd}/luv/library"
+    ]
+}
